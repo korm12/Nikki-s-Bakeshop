@@ -1,0 +1,19 @@
+.delivery-container{
+    background-color: white;
+
+}
+
+.wrap{
+    padding: 3% 0 3% 0;
+}
+
+.orders-label{
+    color: grey;
+    font-family: 'Lobster', cursive;
+
+}
+.section-label{
+    color: #ffdf00;
+    font-family: 'Lobster', cursive;
+    text-shadow: 1px 1px grey;
+}

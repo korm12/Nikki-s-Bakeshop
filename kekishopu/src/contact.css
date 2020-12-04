@@ -1,0 +1,16 @@
+.contact-text-title{
+    color: #ffdf00;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px grey;
+
+}
+
+.contact-mes-container{
+    background-color: white;
+}
+.contact-content{
+    font-family: 'Lobster', cursive;
+    color: gray;
+    font-size: larger;
+    line-height: 30px;
+}

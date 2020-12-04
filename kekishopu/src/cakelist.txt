@@ -1,0 +1,174 @@
+ cakes:[
+            {
+                "_id": "1",
+                "name": "Cake 1",
+                "src": "/pictures/products/n1.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 750,
+                "category" : "Standard",
+                "qty" : 1
+            },
+            {
+                "_id": "2",
+                "name": "Cake 2",
+                "src": "/pictures/products/n2.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 750,
+                "category" : "Standard",
+                "qty" : 1
+            },
+            {
+                "_id": "3",
+                "name": "Cake 3",
+                "src": "/pictures/products/n3.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 750,
+                "category" : "Standard",
+                "qty" : 1
+                
+            },
+            {
+                "_id": "4",
+                "name": "Cake 4",
+                "src": "/pictures/products/n4.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 750,
+                "category" : "Standard",
+                "qty" : 1
+            },
+            {
+                "_id": "5",
+                "name": "Cake 5",
+                "src": "/pictures/products/n5.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 750,
+                "category" : "Standard",
+                "qty" : 1
+            },
+            {
+                "_id": "6",
+                "name": "Hello Kitty Cake",
+                "src": "/pictures/products/s1.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 1200,
+                "category" : "Customize",
+                "qty" : 1
+            },
+            {
+                "_id": "7",
+                "name": "Garfield Cake",
+                "src": "/pictures/products/s2.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 1200,
+                "category" : "Customize",
+                "qty" : 1
+            },
+            {
+                "_id": "8",
+                "name": "Basketball Cake",
+                "src": "/pictures/products/s3.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 1200,
+                "category" : "Customize",
+                "qty" : 1
+            },
+            {
+                "_id": "9",
+                "name": "Spiderman Cake",
+                "src": "/pictures/products/s4.jpg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+                "price" : 1200,
+                "category" : "Customize",
+                "qty" : 1
+            },
+        ]
+
+
+
+        /// json 
+
+         {
+        "_id": "1",
+        "name": "Cake 1",
+        "src": "/pictures/products/n1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "category": "Standard",
+        "__v": 0
+    },
+    {
+        "_id": "2",
+        "name": "Cake 2",
+        "src": "/pictures/products/n2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "category": "Standard",
+        "__v": 0
+    },
+    {
+        "_id": "3",
+        "name": "Cake 3",
+        "src": "/pictures/products/n3.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "__v": 0
+    },
+    {
+        "_id": "4",
+        "name": "Cake 4",
+        "src": "/pictures/products/n4.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "category": "Standard",
+        "__v": 0
+    },
+    {
+        "_id": "6",
+        "name": "Hello Kitty Cake",
+        "src": "/pictures/products/s1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 1200,
+        "category": "Customize",
+        "__v": 0
+    }
+
+
+     {
+        "name": "Cake 1",
+        "src": "/pictures/products/n1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "category": "Standard",
+        "__v": 0
+    },
+    {
+        "name": "Cake 2",
+        "src": "/pictures/products/n2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "category": "Standard",
+        "__v": 0
+    },
+    {
+        "name": "Cake 3",
+        "src": "/pictures/products/n3.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "__v": 0
+    },
+    {
+        "name": "Cake 4",
+        "src": "/pictures/products/n4.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 750,
+        "category": "Standard",
+        "__v": 0
+    },
+    {
+        "name": "Hello Kitty Cake",
+        "src": "/pictures/products/s1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam neque leo, venenatis sed auctor sed, finibus nec leo. Pellentesque tristique ipsum in quam semper, in eleifend libero tincidunt. ",
+        "price": 1200,
+        "category": "Customize",
+        "__v": 0
+    }

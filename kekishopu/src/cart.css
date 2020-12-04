@@ -1,0 +1,21 @@
+.wrap{
+    background-color:  #fff8c7 ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.cart-container{
+    background-color: white;
+}
+.cart-text-title{
+    font-family: 'Lobster', cursive;
+    color: #ffdf00;
+    text-shadow: 2px 2px grey;
+}
+
+.total-price{
+    color: #ffdf00;
+    text-shadow: 1px 1px grey;
+}
+.item-wrap :hover{ 
+    background-color:#fff8c7 ;
+}

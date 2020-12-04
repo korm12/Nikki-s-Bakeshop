@@ -1,0 +1,21 @@
+.header-container{
+    background-image: url("/pictures/banner.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    padding: 10%;
+}
+.header-text-container{
+    padding: 10%;
+    background-color: white;
+    opacity: 0.9;
+    border: 2px solid #ffdf00;
+    font-family: 'Lobster', cursive;
+    border-radius: 50%;
+    color: #ffdf00;
+    text-shadow : 2px 2px grey;
+}
+.header-text-container h1{
+    font-family: 'Lobster', cursive;
+}

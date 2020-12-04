@@ -1,0 +1,18 @@
+.wrap{
+    background-color:#fff8c7;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.tab-container{
+    background-color: white;
+
+}
+.card-title{
+
+    font-family: 'Lobster', cursive;
+    color: #ffdf00;
+    text-shadow: 1px 1px grey;
+}
+/* .card-text{
+    color: gray;
+} */
